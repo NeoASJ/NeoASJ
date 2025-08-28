@@ -2,13 +2,13 @@
   <!-- Waving Hand GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/229202350-f80e643a-f126-4076-a077-3e5f187a5509.gif" width="100px" alt="Waving" />
 
-  <!-- Roles first with typewriter effect once -->
+  <!-- Name typed once on top -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Typing SVG for Name" />
   </h1>
 
-  <!-- Name appear instantly after delay (after the roles finish typing) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Name Static Showup" />
+  <!-- Roles appear instantly after delay below -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
 
   <p>
     I am a passionate Data Scientist from India with a love for building useful and beautiful applications. I'm always looking to learn and grow as a developer and I enjoy collaborating with others. Let's connect and build something awesome!
