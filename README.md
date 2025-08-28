@@ -6,11 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Typing SVG for Name" />
   </h1>
   <!-- Roles appear instantly after delay below -->
- <p align="center" style="font-size: 24px;">
-  <span>✨&nbsp;&nbsp;</span>
+<p align="center">
+  ✨
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
-  <span>&nbsp;&nbsp;✨</span>
+  ✨
 </p>
+
 
 
   <div align="center">
