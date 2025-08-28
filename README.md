@@ -15,9 +15,11 @@
   </p>
 
   <!-- Tech Stack - All icons in one img with no line breaks -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,powerbi,tableau,flask,django,streamlit,gradio,git,github,vscode,netlify,mysql,docker,gcp" alt="Tech Stack Icons" />
-  </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,powerbi,tableau,flask,django,streamlit,gradio,git,github,vscode,netlify,mysql,docker,gcp" alt="Tech Stack Icons" />
+</p>
+
+
 
   <!-- GitHub Stats -->
   <p align="center">
