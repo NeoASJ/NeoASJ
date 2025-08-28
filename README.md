@@ -15,9 +15,10 @@
   </p>
 
 
- <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,tableau,git,github,vscode,netlify,mysql,docker,gcp,flask,django,streamlit" alt="Tech Stack Icons" />
 </p>
+
 
 
 
