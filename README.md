@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJuMnB5ZnQ3dnY3aW90eGZ6azMyNHh6ejk0N2w1eW9meG80cW81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5K4yqYcIu81a1793v/giphy.gif" width="100px" alt="A developer at a computer" />
-<h1>Hello there, I'm Anush S Jathan!</h1>
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=450&lines=Hello+there%2C+I'm+Anush+S+Jathan!" alt="Typing SVG" />
+</h1>
 <p>I am a passionate Data Scientist from India with a love for building useful and beautiful applications. I'm always looking to learn and grow as a developer and I enjoy collaborating with others. Let's connect and build something awesome!</p>
 </div>
 
@@ -14,7 +16,13 @@
 <!-- Data Science -->
 
 <a href="https://skillicons.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=python,r,numpy,pandas,scikitlearn" alt="Data Science Skills" />
+<img src="https://skillicons.dev/icons?i=python,r,numpy,pandas,scikitlearn,powerbi,tableau" alt="Data Science Skills" />
+</a>
+
+<!-- Backend -->
+
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=flask,django" alt="Backend Skills" />
 </a>
 
 <!-- Tools & Platforms -->
