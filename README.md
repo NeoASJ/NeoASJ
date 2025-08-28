@@ -6,11 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Typing SVG for Name" />
   </h1>
   <!-- Roles appear instantly after delay below -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
+  ✨<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />✨
   <div align="center">
   <hr>
-    <h3>✨ About Me ✨</h3>
-
   <p><strong>Dedicated Data Scientist</strong> with hands-on experience in machine learning, deep learning, and data analysis.</p>
   <p>Currently advancing my skills in <strong>Retrieval-Augmented Generation (RAG)</strong> and deep learning to build smarter models.</p>
   <p>My GitHub showcases impactful projects using Python, R, and SQL to solve real-world challenges.</p>
