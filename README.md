@@ -15,10 +15,9 @@
   </p>
 
 
-  <!-- Tech Stack - All icons in one img, one line, no unsupported names -->
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,tableau,flask,django,streamlit,git,github,vscode,netlify,mysql,docker,gcp" alt="Tech Stack Icons" />
-  </p>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,tableau,git,github,vscode,netlify,mysql,docker,gcp,flask,django,streamlit" alt="Tech Stack Icons" />
+</p>
 
 
 
