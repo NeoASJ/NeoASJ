@@ -31,7 +31,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="GitHub Activity Graph" />
     <img src="https://github-profile-trophy.vercel.app/?username=NeoASJ&theme=tokyonight&margin-w=5" alt="GitHub Trophies"/>
     <img src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" alt="GitHub Contribution Calendar"/>
-     <img src="https://github.com/NeoASJ/NeoASJ/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
+    <img src="https://github.com/NeoASJ/NeoASJ/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
   </p>
 
   <!-- Connect Links -->
