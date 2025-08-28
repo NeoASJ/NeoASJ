@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="NeoASJ's GitHub Contribution Graph" />
 </p>
 
   <!-- Connect Links -->
