@@ -14,20 +14,9 @@
     I am a passionate Data Scientist from India with a love for building useful and beautiful applications. I'm always looking to learn and grow as a developer and I enjoy collaborating with others. Let's connect and build something awesome!
   </p>
 
-  <!-- Tech Stack -->
+  <!-- Tech Stack - All icons in one img with no line breaks -->
   <p align="center">
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Web Development Skills" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=python,r,numpy,pandas,scikitlearn,powerbi,tableau" alt="Data Science Skills" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=flask,django,streamlit,gradio" alt="Backend Skills" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,mysql,docker,gcp" alt="Tools & Platforms" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,powerbi,tableau,flask,django,streamlit,gradio,git,github,vscode,netlify,mysql,docker,gcp" alt="Tech Stack Icons" />
   </p>
 
   <!-- GitHub Stats -->
