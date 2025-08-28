@@ -1,6 +1,6 @@
-div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF6aGdsM2VwNmF4dG5wd3Nxa2Z6MjBtd2t6MTRscjcxMmQ0eGZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgzrTTxN9cTjN1jQ/giphy.gif" width="100px" alt="A data analyst at a computer with dynamic data" />
+<div align="center">
 <h1>
+💻
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=450&lines=Hello+there%2C+I'm+Anush+S+Jathan!;Data+Scientist;Data+Analyst;AI+Enthusiast" alt="Typing SVG" />
 </h1>
 <p>I am a passionate Data Scientist from India with a love for building useful and beautiful applications. I'm always looking to learn and grow as a developer and I enjoy collaborating with others. Let's connect and build something awesome!</p>
