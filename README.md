@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229202350-f80e643a-f126-4076-a077-3e5f187a5509.gif" width="100px" alt="Waving" />
 <h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=450&lines=Hello+there%2C+I'm+Anush+S+Jathan!;Data+Scientist;Data+Analyst;AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=450&lines=Hello+there%2C+I'm+Anush+S+Jathan!" alt="Typing SVG for Name" />
 </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=450&lines=Data+Scientist;Data+Analyst;AI+Enthusiast" alt="Typing SVG for Roles" />
 <p>I am a passionate Data Scientist from India with a love for building useful and beautiful applications. I'm always looking to learn and grow as a developer and I enjoy collaborating with others. Let's connect and build something awesome!</p>
 </div>
 
@@ -22,13 +23,13 @@
 <!-- Backend -->
 
 <a href="https://skillicons.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=flask,django" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=flask,django,streamlit,gradio" alt="Backend Skills" />
 </a>
 
 <!-- Tools & Platforms -->
 
 <a href="https://skillicons.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,mysql,docker,gcp" alt="Tools & Platforms" />
 </a>
 </p>
 
