@@ -39,5 +39,5 @@
    </a>
 
   </p>
-  hello guys
+ 
 </div>
