@@ -10,21 +10,20 @@
   <!-- Roles appear instantly after delay below -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
 
+ <div align="center">
+
+  <h3>About Me</h3>
+
   <p>
-I am a dedicated Data Scientist with hands-on experience in machine learning, deep learning, and data analysis.
-</p>
-<p>
-Currently, I am enhancing my skills in Retrieval-Augmented Generation (RAG) and advanced deep learning techniques to build smarter, more efficient models.
-</p>
-<p>
-My GitHub showcases projects that apply data-driven solutions to real-world problems using Python, R, and SQL.
-</p>
-<p>
-I am passionate about transforming complex data into actionable insights and constantly evolving with emerging technologies.
-</p>
-<p>
-Eager to collaborate on innovative data science challenges and cutting-edge AI projects.
-</p>
+    <strong>I am a dedicated Data Scientist</strong> with hands-on experience in machine learning, deep learning, and data analysis.<br>
+    Currently enhancing my skills in <strong>Retrieval-Augmented Generation (RAG)</strong> and advanced deep learning techniques to build smarter, more efficient models.<br>
+    My GitHub showcases projects applying data-driven solutions to real-world problems with Python, R, and SQL.<br>
+    <em>I am passionate about transforming complex data into actionable insights and evolving with emerging technologies.</em><br>
+    Eager to collaborate on innovative data science challenges and cutting-edge AI projects.
+  </p>
+
+</div>
+
 
 
 <p align="center">
