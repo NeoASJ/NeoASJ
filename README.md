@@ -37,8 +37,9 @@
     <a href="https://www.linkedin.com/in/anush-s-jathan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="https://neaasj.netlify.app" target="_blank">
+   <a href="https://neoasj.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
-    </a>
+   </a>
+
   </p>
 </div>
