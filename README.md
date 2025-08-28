@@ -19,9 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,tableau,git,github,vscode,netlify,mysql,docker,gcp,flask,django,streamlit,aws" alt="Tech Stack Icons" />
 </p>
 
-
-
-
   <!-- GitHub Stats -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/NeoASJ?style=for-the-badge&label=Total%20Stars&color=F7B731" alt="Total Stars" />
