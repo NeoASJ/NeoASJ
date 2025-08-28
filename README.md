@@ -11,8 +11,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
 
   <p>
-    I am a passionate Data Scientist from India with a love for building useful and beautiful applications. I'm always looking to learn and grow as a developer and I enjoy collaborating with others. Let's connect and build something awesome!
-  </p>
+I am a dedicated Data Scientist with hands-on experience in machine learning, deep learning, and data analysis.
+</p>
+<p>
+Currently, I am enhancing my skills in Retrieval-Augmented Generation (RAG) and advanced deep learning techniques to build smarter, more efficient models.
+</p>
+<p>
+My GitHub showcases projects that apply data-driven solutions to real-world problems using Python, R, and SQL.
+</p>
+<p>
+I am passionate about transforming complex data into actionable insights and constantly evolving with emerging technologies.
+</p>
+<p>
+Eager to collaborate on innovative data science challenges and cutting-edge AI projects.
+</p>
 
 
 <p align="center">
