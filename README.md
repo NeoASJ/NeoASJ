@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJuMnB5ZnQ3dnY3aW90eGZ6azMyNHh6ejk0N2w1eW9meG80cW81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5K4yqYcIu81a1793v/giphy.gif" width="100px" alt="A developer at a computer" />
+<img src="https://media.giphy.com/media/Q81Nn4uXoUu7X5f3k1/giphy.gif?cid=ecf05e47g57r897q1a73w8h1r6j1p4a4x8n4f4k6g5a9t9w7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px" alt="A data scientist at a computer" />
 <h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=450&lines=Hello+there%2C+I'm+Anush+S+Jathan!;Data+Scientist;Data+Analyst;AI+Enthusiast" alt="Typing SVG" />
 </h1>
