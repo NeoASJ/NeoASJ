@@ -12,17 +12,18 @@
 
  <div align="center">
 
-  <h3>About Me</h3>
+  <h2>✨ About Me ✨</h2>
 
   <p>
-    <strong>I am a dedicated Data Scientist</strong> with hands-on experience in machine learning, deep learning, and data analysis.<br>
-    Currently enhancing my skills in <strong>Retrieval-Augmented Generation (RAG)</strong> and advanced deep learning techniques to build smarter, more efficient models.<br>
-    My GitHub showcases projects applying data-driven solutions to real-world problems with Python, R, and SQL.<br>
-    <em>I am passionate about transforming complex data into actionable insights and evolving with emerging technologies.</em><br>
-    Eager to collaborate on innovative data science challenges and cutting-edge AI projects.
+    <strong>Dedicated Data Scientist</strong> with hands-on experience in machine learning, deep learning, and data analysis.<br><br>
+    Currently advancing my skills in <strong>Retrieval-Augmented Generation (RAG)</strong> and deep learning to build smarter models.<br><br>
+    My GitHub showcases impactful projects using Python, R, and SQL to solve real-world challenges.<br><br>
+    <em>Passionate about transforming data into insights and always evolving with the latest AI technologies.</em><br><br>
+    Excited to collaborate on innovative data science and AI projects!
   </p>
 
 </div>
+
 
 
 
