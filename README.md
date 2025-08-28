@@ -23,14 +23,11 @@
 
 
   <!-- GitHub Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoASJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoASJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="GitHub Activity Graph" />
-    
-    
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/NeoASJ?style=for-the-badge&label=Total%20Stars&color=F7B731" alt="Total Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/NeoASJ/NeoASJ?style=for-the-badge&label=Total%20Commits&color=26de81" alt="Total Commits (Year)" />
+</p>
+
 
   <!-- Connect Links -->
   <p align="center">
