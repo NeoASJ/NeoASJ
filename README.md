@@ -1,28 +1,24 @@
 <div align="center">
   <!-- Waving Hand GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/229202350-f80e643a-f126-4076-a077-3e5f187a5509.gif" width="100px" alt="Waving" />
-
   <!-- Name typed once on top -->
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Typing SVG for Name" />
   </h1>
-
   <!-- Roles appear instantly after delay below -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
+  <div align="center">
+  <hr>
+    <h3>✨ About Me ✨</h3>
 
- <div align="center">
+  <p><strong>Dedicated Data Scientist</strong> with hands-on experience in machine learning, deep learning, and data analysis.</p>
+  <p>Currently advancing my skills in <strong>Retrieval-Augmented Generation (RAG)</strong> and deep learning to build smarter models.</p>
+  <p>My GitHub showcases impactful projects using Python, R, and SQL to solve real-world challenges.</p>
+  <p><em>Passionate about transforming data into insights and always evolving with the latest AI technologies.</em></p>
+  <p>Excited to collaborate on innovative data science and AI projects!</p>
 
-  <h2>✨ About Me ✨</h2>
+  </div>
 
-  <p>
-    <strong>Dedicated Data Scientist</strong> with hands-on experience in machine learning, deep learning, and data analysis.<br><br>
-    Currently advancing my skills in <strong>Retrieval-Augmented Generation (RAG)</strong> and deep learning to build smarter models.<br><br>
-    My GitHub showcases impactful projects using Python, R, and SQL to solve real-world challenges.<br><br>
-    <em>Passionate about transforming data into insights and always evolving with the latest AI technologies.</em><br><br>
-    Excited to collaborate on innovative data science and AI projects!
-  </p>
-
-</div>
 
 
 
