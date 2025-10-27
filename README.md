@@ -122,7 +122,19 @@
   
   ---
   
-  <h2 align="center">📬 Get in Touch</h2>
+  
+  
+  <br>
+  <p align="center">
+  <img src="https://img.shields.io/github/stars/NeoASJ?style=for-the-badge&label=Total%20Stars&color=F7B731" alt="Total Stars" />
+ <img src="https://img.shields.io/github/commit-activity/y/NeoASJ/NeoASJ?style=for-the-badge&label=Total%20Commits&color=26de81" alt="Total Commits (Year)" />
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
+<h2 align="center">📬 Get in Touch</h2>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/anush-s-jathan" target="_blank">
@@ -136,17 +148,6 @@
 </a>
 
   </p>
-  
-  <br>
-  <p align="center">
-  <img src="https://img.shields.io/github/stars/NeoASJ?style=for-the-badge&label=Total%20Stars&color=F7B731" alt="Total Stars" />
- <img src="https://img.shields.io/github/commit-activity/y/NeoASJ/NeoASJ?style=for-the-badge&label=Total%20Commits&color=26de81" alt="Total Commits (Year)" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="GitHub Contribution Graph" />
-</p>
 
   
   
