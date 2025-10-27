@@ -19,15 +19,16 @@
         <p><em>Passionate about transforming data into insights and always evolving with the latest AI technologies.</em></p>
         <p>Excited to collaborate on innovative data science and AI projects!</p>
       </td>
-     <td width="40%" style="vertical-align: top; text-align: center;">
-    <img 
-      align="right" 
-      alt="Data Science Matrix GIF" 
-      width="350" 
-      src="https://media.giphy.com/media/M8oYJ6m9fFqGf3b4hH/giphy.gif" 
-      style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+      
+  <td width="40%" style="vertical-align: top; text-align: center;">
+  <img 
+    align="right" 
+    alt="Data Science GIF" 
+    width="350" 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJzcmVhZ2R6bDNwYTgxeGdsMmV2ZWNmcGN4bjUwY3hkNGRhdnozbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" 
+    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </td>
-    </tr>
+</tr>
   </table>
 
   <br>
