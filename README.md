@@ -19,8 +19,8 @@
         <p><em>Passionate about transforming data into insights and always evolving with the latest AI technologies.</em></p>
         <p>Excited to collaborate on innovative data science and AI projects!</p>
       </td>
-      <td width="40%" style="vertical-align: top; text-align: center;">
-        <img align="right" alt="Developer Working GIF" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+     <td width="40%" style="vertical-align: top; text-align: center;">
+        <img align="right" alt="Developer Coding GIF" width="350" src="https://media.giphy.com/media/qgK7e9xYV4zD198D69/giphy.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
       </td>
     </tr>
   </table>
