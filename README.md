@@ -1,41 +1,47 @@
 <div align="center">
-  <h1>💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖</h1>
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹<br>
-  𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒<br>
-  𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁<br>
-  𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-
-  <a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎...</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Typing SVG for Name" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=F7F7F7&center=true&width=500&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
 </div>
 
----
+  <div align="center">
+  <hr>
+  <p><strong>Dedicated Data Scientist</strong> with hands-on experience in machine learning, deep learning, and data analysis.</p>
+  <p>Currently advancing my skills in <strong>Retrieval-Augmented Generation (RAG)</strong> and deep learning to build smarter models.</p>
+  <p>My GitHub showcases impactful projects using Python, R, and SQL to solve real-world challenges.</p>
+  <p><em>Passionate about transforming data into insights and always evolving with the latest AI technologies.</em></p>
+  <p>Excited to collaborate on innovative data science and AI projects!</p>
 
-## 🦊 About me 🦊
-- **Name:** Miella
-- **Fursona:** Grey Wolf/Snow Fox, sometimes a Bird
-- **Loves:** anime, osu, rhythm games
-- **Gender:** she/her/Female
-- **LastFM:** [https://scrobble.egirl.ing](https://scrobble.egirl.ing)
-- **Hobbies:** Tech Stuff, Graphic Design, Web Development
-- **Working at:** Intave Anticheat
+  </div>
 
----
 
-## 📇 Knowledge 📇
-I'm very good at writing guides like my Yuzu Emulator Guide or writing this README itself. It took me hours while listening to music 🎵. Also skilled at Graphics Design and character animation.
 
----
 
-## 📝 Contact me 📝
-You can find me on:
 
-- [Twitter](https://twitter.com/HerXayah)
-- [Discord](https://discord.me/cozythighs)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,r,numpy,pandas,scikitlearn,tableau,git,github,vscode,netlify,mysql,docker,gcp,flask,django,streamlit,aws" alt="Tech Stack Icons" />
+</p>
 
----
+  <!-- GitHub Stats -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/NeoASJ?style=for-the-badge&label=Total%20Stars&color=F7B731" alt="Total Stars" />
+ <img src="https://img.shields.io/github/commit-activity/y/NeoASJ/NeoASJ?style=for-the-badge&label=Total%20Commits&color=26de81" alt="Total Commits (Year)" />
 
-<div align="center">
-  <p>💖 Thanks for reading! 💖</p>
-  ![Profile Badge](https://img.shields.io/badge/Profile-GitHub-blue)
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
+
+  <!-- Connect Links -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/anush-s-jathan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+   <a href="https://neoasj.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
+   </a>
+
+  </p>
+ 
 </div>
-taking this as format can u display the video iw nat in the github repo
