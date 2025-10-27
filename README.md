@@ -20,8 +20,13 @@
         <p>Excited to collaborate on innovative data science and AI projects!</p>
       </td>
      <td width="40%" style="vertical-align: top; text-align: center;">
-        <img align="right" alt="Developer Coding GIF" width="350" src="https://media.giphy.com/media/M8oYJ6m9fFqGf3b4hH/giphy.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-      </td>
+    <img 
+      align="right" 
+      alt="Data Science Matrix GIF" 
+      width="350" 
+      src="https://media.giphy.com/media/M8oYJ6m9fFqGf3b4hH/giphy.gif" 
+      style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+</td>
     </tr>
   </table>
 
