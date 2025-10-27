@@ -1,10 +1,11 @@
 <div align="center">
-  
+ <br><br>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FFDC&size=40&center=true&width=600&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Typing SVG for Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FFDC&size=45&center=true&width=600&lines=Hello+there%2C+I'm+Anush+S+Jathan!&loop=false" alt="Typing SVG for Name" />
     <br/>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=6000&color=39FFDC&size=30&center=true&width=600&lines=Data+Scientist;Data+Analyst;AI+Enthusiast&loop=false" alt="Roles Static Showup" />
 </p>
+
 
 
 
