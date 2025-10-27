@@ -33,9 +33,10 @@
 
   <br>
     
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%233299FF&size=22&center=true&vCenter=true&lines=🔍+Explore+endless+data+possibilities!;📊+Unlocking+insights+from+numbers.;🤖+Building+the+future+with+AI.;👨‍💻+Code%2C+analyze%2C+innovate!;✨+Passionate+about+tech+and+learning.;🌟+Transforming+ideas+into+reality." alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Innovate+with+code+every+day!;🚀+Learn+fast%2C+build+faster!;🎯+Debug+like+a+pro.;💡+Eat%2C+Think%2C+Code%2C+Repeat!;☕+Fueling+ideas+with+coffee.;📈+Data+driven+decisions+win;🌐+Develop+globally%2C+impact+locally!" alt="Typing SVG">
 </p>
+
 
 
   <br>
