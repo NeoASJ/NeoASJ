@@ -46,8 +46,8 @@
     <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
     <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
     <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45"/><br>Scala</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>SQL</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br>C#</td>
+    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
+    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45"/><br>MongoDB</td>
   </tr>
 </table>
 
@@ -62,9 +62,6 @@
     <td align="center" style="padding: 10px;"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45" height="45"/><br>Google Analytics</td>
     <td align="center" style="padding: 10px;"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45" height="45"/><br>Google Tag Manager</td>
     <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="90" height="30"/><br>KNIME</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Pentaho-%234B8DB3.svg?style=for-the-badge&logo=pentaho&logoColor=white" width="90" height="30"/><br>Pentaho</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
     <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" width="90" height="30"/><br>Tableau</td>
   </tr>
 </table>
@@ -78,6 +75,7 @@
     <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>PySpark</td>
     <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Kafka-%2300796D.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" width="90" height="30"/><br>Kafka</td>
     <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="90" height="30"/><br>Snowflake</td>
+    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br>Docker</td>
   </tr>
 </table>
 
@@ -101,6 +99,8 @@
   <tr>
     <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
     <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
+    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git</td>
+    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask</td>
   </tr>
 </table>
   
