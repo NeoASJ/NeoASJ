@@ -21,7 +21,7 @@
       </td>
       
       <td width="40%" style="vertical-align: top; text-align: center;">
-        <img align="right" alt="Developer Working GIF" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+        <img align="right" alt="Developer Coding GIF" width="350" src="https://media.giphy.com/media/qgK7e9xYV4zD198D69/giphy.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
       </td>
     </tr>
   </table>
@@ -38,70 +38,109 @@
   
   <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
-<br>
+  <br>
 
-<h3 align="center">Programming Languages & Databases</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45"/><br>Scala</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45"/><br>MongoDB</td>
-  </tr>
-</table>
+  <h3 align="center">Programming Languages & Databases</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45"/><br>Scala</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45"/><br>MongoDB</td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<h3 align="center">Business Intelligence, Analytics & Database Tools</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="90" height="30"/><br>Power BI</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="90" height="30"/><br>Excel</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Looker%20Studio-%230073E6.svg?style=for-the-badge&logo=looker&logoColor=white" width="90" height="30"/><br>Looker Studio</td>
-    <td align="center" style="padding: 10px;"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45" height="45"/><br>Google Analytics</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="90" height="30"/><br>KNIME</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" width="90" height="30"/><br>Tableau</td>
-  </tr>
-</table>
+  <h3 align="center">Business Intelligence, Analytics & Database Tools</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="90" height="30"/><br>Power BI</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="90" height="30"/><br>Excel</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Looker%20Studio-%230073E6.svg?style=for-the-badge&logo=looker&logoColor=white" width="90" height="30"/><br>Looker Studio</td>
+      <td align="center" style="padding: 10px;"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45" height="45"/><br>Google Analytics</td>
+      <td align="center" style="padding: 10px;"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45" height="45"/><br>Google Tag Manager</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="90" height="30"/><br>KNIME</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" width="90" height="30"/><br>Tableau</td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<h3 align="center">Big Data, Cloud & Streaming Technologies</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>Hadoop</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>PySpark</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Kafka-%2300796D.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" width="90" height="30"/><br>Kafka</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="90" height="30"/><br>Snowflake</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br>Docker</td>
-  </tr>
-</table>
+  <h3 align="center">Big Data, Cloud & Streaming Technologies</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>Hadoop</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>PySpark</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Kafka-%2300796D.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" width="90" height="30"/><br>Kafka</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="90" height="30"/><br>Snowflake</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br>Docker</td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<h3 align="center">Machine Learning, Visualization & Generative AI</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
-    <td align="center" style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
-    <td align="center" style="padding: 10px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="30"/><br>Seaborn</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="90" height="30"/><br>GenAI</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Plotly-%2300A9E0.svg?style=for-the-badge&logo=plotly&logoColor=white" width="90" height="30"/><br>Plotly</td>
-  </tr>
-</table>
+  <h3 align="center">Machine Learning, Visualization & Generative AI</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
+      <td align="center" style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
+      <td align="center" style="padding: 10px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="30"/><br>Seaborn</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="90" height="30"/><br>GenAI</td>
+      <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Plotly-%2300A9E0.svg?style=for-the-badge&logo=plotly&logoColor=white" width="90" height="30"/><br>Plotly</td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<h3 align="center">Development Platforms & Tools</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask</td>
-  </tr>
-</table>
+  <h3 align="center">Development Platforms & Tools</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git</td>
+      <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask</td>
+    </tr>
+  </table>
+  
+  ---
+  
+  <h3 align="center">📊 GitHub Stats & Activity</h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/NeoASJ?style=for-the-badge&label=Total%20Stars&color=F7B731" alt="Total Stars" />
+    <img src="https://img.shields.io/github/commit-activity/y/NeoASJ/NeoASJ?style=for-the-badge&label=Total%20Commits&color=26de81" alt="Total Commits (Year)" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  </p>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeoASJ&theme=radical" alt="GitHub Profile Summary Card" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=radical" alt="Anush's GitHub Stats" /></td>
+      </tr>
+    </table>
+  </div>
+  
+  ---
+  
+  <h2 align="center">💼 Work & Project Experience</h2>
+  
+  <p align="left" style="max-width: 800px; margin: 0 auto;">
+    **[Your Current Company/Project Name]**
+    - **[Your Title]**
+      - *[Briefly describe your key achievement or role here.]*
+      
+    **[Your Previous Company/Project Name]**
+    - **[Previous Title]**
+      - *[Briefly describe your key achievement or role here.]*
+  </p>
+  
+  <br>
   
   ---
   
