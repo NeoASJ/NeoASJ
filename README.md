@@ -55,76 +55,55 @@
   
   <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
-<br>
+### Programming Languages & Databases
 
-<h3 align="center">Programming Languages & Databases</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45"/><br>Scala</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45"/><br>MongoDB</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R Badge"/>
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala Badge"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</p>
 
-<br>
+### Business Intelligence, Analytics & Database Tools
 
-<h3 align="center">Business Intelligence, Analytics & Database Tools</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="90" height="30"/><br>Power BI</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="90" height="30"/><br>Excel</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Looker%20Studio-%230073E6.svg?style=for-the-badge&logo=looker&logoColor=white" width="90" height="30"/><br>Looker Studio</td>
-    <td align="center" style="padding: 10px;"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45" height="45"/><br>Google Analytics</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="90" height="30"/><br>KNIME</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" width="90" height="30"/><br>Tableau</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+  <img src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Looker Studio Badge"/>
+  <img src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics Badge"/>
+  <img src="https://img.shields.io/badge/-KNIME-FFCC00?style=flat-square&logo=knime&logoColor=black" alt="KNIME Badge"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+</p>
 
-<br>
+### Big Data, Cloud & Streaming Technologies
 
-<h3 align="center">Big Data, Cloud & Streaming Technologies</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>Hadoop</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>PySpark</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Kafka-%2300796D.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" width="90" height="30"/><br>Kafka</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="90" height="30"/><br>Snowflake</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br>Docker</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black" alt="Hadoop Badge"/>
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark Badge"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka Badge"/>
+  <img src="https://img.shields.io/badge/-Snowflake-2E86AB?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/>
+</p>
 
-<br>
+### Machine Learning, Visualization & Generative AI
 
-<h3 align="center">Machine Learning, Visualization & Generative AI</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
-    <td align="center" style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
-    <td align="center" style="padding: 10px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="30"/><br>Seaborn</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="90" height="30"/><br>GenAI</td>
-    <td align="center" style="padding: 10px;"><img src="https://img.shields.io/badge/Plotly-%2300A9E0.svg?style=for-the-badge&logo=plotly&logoColor=white" width="90" height="30"/><br>Plotly</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-003C5C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/-Seaborn-37A0F0?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
+  <img src="https://img.shields.io/badge/-GenAI-4285F4?style=flat-square&logo=google-gemini&logoColor=white" alt="GenAI Badge"/>
+  <img src="https://img.shields.io/badge/-Plotly-2763A7?style=flat-square&logo=plotly&logoColor=white" alt="Plotly Badge"/>
+</p>
 
-<br>
+### Development Platforms & Tools
 
-<h3 align="center">Development Platforms & Tools</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git</td>
-    <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask</td>
-  </tr>
-</table>
-  
-  ---
-  
-  
-  
-  <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask Badge"/>
+</p>
   <p align="center">
   <img src="https://img.shields.io/github/stars/NeoASJ?style=for-the-badge&label=Total%20Stars&color=F7B731" alt="Total Stars" />
  <img src="https://img.shields.io/github/commit-activity/y/NeoASJ/NeoASJ?style=for-the-badge&label=Total%20Commits&color=26de81" alt="Total Commits (Year)" />
