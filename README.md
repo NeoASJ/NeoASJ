@@ -124,7 +124,6 @@
 
 ---
 
-
 ## 🎨 Featured Projects
 
 <div align="center">
@@ -146,6 +145,7 @@
 </a>
 
 </div>
+
 
 
 ---
