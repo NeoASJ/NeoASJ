@@ -77,7 +77,21 @@
 </div>
 
 ## 📈 GitHub Analytics
+##############################
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
 
+<!-- Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake.svg">
+</picture>
+##################################
 <!-- Row 1: Stats + Streak -->
 <div align="center">
   <img width="48%"
@@ -160,19 +174,7 @@
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
 
-<!-- Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
