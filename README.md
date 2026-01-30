@@ -88,12 +88,6 @@
 </div>
 
 
-
-
----
-
-
-
 <div align="center">
   
 ### 💡 Innovation Metrics
@@ -119,10 +113,6 @@
 
 
 
-
-
----
-
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
@@ -139,7 +129,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -152,11 +141,7 @@
 
 </div>
 
----
 
-
-
----
 
 <div align="center">
   <i>⚡ "Data is the new oil, but AI is the refinery that transforms it into value" ⚡</i>
