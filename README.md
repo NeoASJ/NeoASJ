@@ -131,28 +131,20 @@
 </div>
 
 ---
-
 ## 🎨 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/NeoASJ/carbon_footprint_estimator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=carbon_footprint_estimator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=carbon_footprint_estimator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
 <a href="https://github.com/NeoASJ/fraud-detection-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=fraud-detection-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
-</a>
-
-<a href="https://github.com/NeoASJ/Emotion-Tracker-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=Emotion-Tracker-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
-</a>
-
-<a href="https://github.com/NeoASJ/Flipkart_sentiment_analysis_of-_trending_mobiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=Flipkart_sentiment_analysis_of-_trending_mobiles&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=fraud-detection-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
 </div>
+
 
 
 
