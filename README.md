@@ -72,6 +72,12 @@
     src="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Contributions 
+<!-- Row 1: Contribution Graph -->
+<div align="center">
+  <img width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=react-dark&hide_border=true" />
+</div>
 
 ## 🌐 Let's Connect & Collaborate
 
