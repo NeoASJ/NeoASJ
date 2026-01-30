@@ -124,25 +124,30 @@
 
 ---
 
+
+
 ## 🎨 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+<a href="https://github.com/NeoASJ/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+<a href="https://github.com/NeoASJ/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+
+<a href="https://github.com/NeoASJ/project3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+</a>
+
+<a href="https://github.com/NeoASJ/project4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
 </div>
+
 
 ---
 
@@ -171,7 +176,7 @@
 
 ### 📊 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=NeoASJ&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
