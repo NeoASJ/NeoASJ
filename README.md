@@ -10,11 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Machine+Learning+Engineer+%7C+Deep+Learning+Specialist;RAG+Architect+%7C+AI+Solutions+Developer;Turning+Complex+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
----
-
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
