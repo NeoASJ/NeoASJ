@@ -12,21 +12,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🔥_Building-RAG_Systems-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-<br/>
-<sub>Advanced retrieval-augmented generation pipelines</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🧠_Exploring-Deep_Learning-4ECDC4?style=for-the-badge&labelColor=1a1a2e" />
-<br/><sub>Neural architectures & transformers</sub>
-</td>
-</tr>
-</table>
 
 ---
 
