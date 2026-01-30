@@ -79,6 +79,23 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=react-dark&hide_border=true" />
 </div>
 
+### 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=NeoASJ&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- Streak metrics -->
+<div align="center">
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+
+  <img width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NeoASJ&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
@@ -97,23 +114,6 @@
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=NeoASJ&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<!-- Streak metrics -->
-<div align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-
-  <img width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NeoASJ&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
 
 <!-- TAG LINE -->
 <div align="center">
