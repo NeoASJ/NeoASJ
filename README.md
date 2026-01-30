@@ -78,6 +78,7 @@
 
 ## 📈 GitHub Analytics
 
+<!-- Row 1: Stats + Streak -->
 <div align="center">
   <img width="48%"
     src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
@@ -86,13 +87,12 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=NeoASJ&theme=radical&hide_border=true" />
 </div>
 
+<!-- Row 2: Contribution Graph -->
 <div align="center">
-  <img width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NeoASJ&theme=radical&hide_border=true" />
-
-  <img width="48%"
+  <img width="96%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=react-dark&hide_border=true" />
 </div>
+
 
 
 
