@@ -130,19 +130,19 @@
 
 <div align="center">
 
-<a href="https://github.com/NeoASJ/project1">
+<a href="https://github.com/NeoASJ/carbon_footprint_estimator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
-<a href="https://github.com/NeoASJ/project2">
+<a href="https://github.com/NeoASJ/fraud-detection-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
-<a href="https://github.com/NeoASJ/project3">
+<a href="https://github.com/NeoASJ/Emotion-Tracker-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
-<a href="https://github.com/NeoASJ/project4">
+<a href="https://github.com/NeoASJ/Flipkart_sentiment_analysis_of-_trending_mobiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=project4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
 </a>
 
