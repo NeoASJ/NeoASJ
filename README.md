@@ -136,11 +136,13 @@
 <div align="center">
 
 <a href="https://github.com/NeoASJ/carbon_footprint_estimator">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=carbon_footprint_estimator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=carbon_footprint_estimator&theme=radical&hide_border=true&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/NeoASJ/fraud-detection-system">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=fraud-detection-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" />
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NeoASJ&repo=fraud-detection-system&theme=radical&hide_border=true&cache_seconds=1800" />
 </a>
 
 </div>
