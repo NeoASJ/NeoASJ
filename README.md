@@ -107,15 +107,15 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/ML_Models-50+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ML_Models-10+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <br/><sub><b>Trained & Deployed</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Data_Pipelines-30+-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Pipelines-10+-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" />
 <br/><sub><b>Production Ready</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/RAG_Systems-10+-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Systems-3+-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" />
 <br/><sub><b>Architected</b></sub>
 </td>
 </tr>
