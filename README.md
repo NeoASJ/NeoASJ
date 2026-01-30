@@ -72,29 +72,6 @@
     src="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake.svg">
 </picture>
 
-  
-### 💡 Innovation Metrics
-  
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/ML_Models-10+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<br/><sub><b>Trained & Deployed</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Data_Pipelines-10+-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" />
-<br/><sub><b>Production Ready</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/RAG_Systems-3+-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" />
-<br/><sub><b>Architected</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -121,19 +98,20 @@
 ![](https://komarev.com/ghpvc/?username=NeoASJ&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-<!-- Row 1: Stats + Streak -->
+
+
+<!-- Row 1: Contribution Graph -->
+<div align="center">
+  <img width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=react-dark&hide_border=true" />
+</div>
+<!-- Row 2 : Streak metrics -->
 <div align="center">
   <img width="48%"
     src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 
   <img width="48%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=NeoASJ&theme=radical&hide_border=true" />
-</div>
-
-<!-- Row 2: Contribution Graph -->
-<div align="center">
-  <img width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=react-dark&hide_border=true" />
 </div>
 
 
