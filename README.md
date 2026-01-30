@@ -86,8 +86,9 @@
 </div>
 
 <div align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoASJ&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <a href="https://github.com/NeoASJ">
+    <b>📊 View full contribution graph on GitHub →</b>
+  </a>
 </div>
 
 ---
