@@ -57,12 +57,7 @@
 </div>
 
 ## 📈 GitHub Analytics
-<p align="center">
-  <h2 align="center">📈 GitHub Analytics</h2>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEO_ASJ&theme=shades-of-purple&fire=9D4EDD&ring=7B2CBF&stroke=5A189A&currStreakNum=ffffff" alt="GitHub Streak" />
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NEO_ASJ&theme=shades-of-purple&fire=9D4EDD&ring=7B2CBF&stroke=5A189A&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 ## Contributions 
 <div align="center">
