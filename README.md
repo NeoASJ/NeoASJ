@@ -57,8 +57,11 @@
 </div>
 
 ## 📈 GitHub Analytics
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NEO_ASJ&theme=shades-of-purple&fire=9D4EDD&ring=7B2CBF&stroke=5A189A&currStreakNum=ffffff)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=NeoASJ&show_icons=true&theme=shades-of-purple&title_color=9D4EDD&icon_color=7B2CBF&text_color=ffffff&bg_color=1a1b27" alt="NeoASJ GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoASJ&layout=compact&theme=shades-of-purple&title_color=9D4EDD&text_color=ffffff&bg_color=1a1b27" alt="NeoASJ Top Languages" />
+</div>
 
 ## Contributions 
 <div align="center">
