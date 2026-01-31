@@ -58,6 +58,8 @@
 
 ## 📈 GitHub Analytics
 
+
+## Contributions 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
@@ -71,9 +73,6 @@
   <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/NeoASJ/NeoASJ/output/github-contribution-grid-snake.svg">
 </picture>
-
-## Contributions 
-
 
 
 ## 🌐 Let's Connect & Collaborate
