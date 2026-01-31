@@ -78,13 +78,7 @@
   <img width="96%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=NeoASJ&theme=react-dark&hide_border=true" />
 </div>
-<div align="center">
-  
-## 📊  Profile Views
 
-![](https://komarev.com/ghpvc/?username=NeoASJ&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <!-- Streak metrics -->
 <div align="center">
