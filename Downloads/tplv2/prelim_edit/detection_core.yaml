@@ -1,0 +1,86 @@
+# Display Settings
+display:
+  max_width: 1920
+  max_height: 1080
+
+rois:
+  tank_view:
+    coordinates: [11, 47, 1426, 806]  # [x1, y1, x2, y2]
+    folder_name: "tankview"
+  road_view:
+    coordinates: [11, 856, 1426, 1058]  # [x1, y1, x2, y2]
+    folder_name: "roadview"
+
+# Detection Parameters
+detection:
+  monitor_duration: 5
+  frame_skip: 3 
+  ppe_frame_skip: 2 
+  roi_empty_time: 2.0  # seconds before ROI considered empty
+
+# Vehicle Detection
+vehicle:
+  classes:
+    - car
+    - truck
+    - bus
+  cooldown_enabled: true
+  cooldown_seconds: 10
+
+# Person Detection
+person:
+  cooldown_enabled: true
+  cooldown_minutes: 30
+  # Separate confidence thresholds for each ROI
+  tank_view_confidence: 0.6
+  road_view_confidence: 0.8
+
+# PPE Detection Thresholds
+ppe:
+  helmet_confidence: 0.8
+  vest_confidence: 0.8
+
+# Image Quality
+image:
+  quality: 50  # JPEG quality (0-100)
+
+# File Paths
+paths:
+  log_file: "detection_log_saving.jsonl"
+  config_file: "detection_config.json"
+  command_file: "detection_commands.json"
+  alarm_wav: "data/alarm.wav"
+  person_model: "data/pv_55e.pt"   
+  ppe_model: "data/PPE_Detector.pt"
+
+# Model Settings
+model:
+  person_detection:
+    imgsz: 640
+    conf: 0.4  # Default confidence (overridden by ROI-specific values)
+  ppe_detection:
+    imgsz: 480
+    conf: 0.8
+  vehicle_detection:
+    imgsz: 640
+    conf: 0.5
+
+# Alarm Settings
+alarm:
+  cooldown: 30  # seconds between alarm triggers
+
+# CUDA Settings
+cuda:
+  benchmark: true
+  memory_fraction: 0.85
+
+# Video Capture Settings
+video:
+  width: 1920
+  height: 1080
+
+# Notification Settings (configured in .env file)
+notification:
+  enabled: true
+  sms_to: "+918123577974"
+  email_to: "ajithkjajith16@gmail.com"

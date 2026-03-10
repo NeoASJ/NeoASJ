@@ -1,0 +1,8 @@
+email:
+  message: "Alert. A Person Detected near FB7029A/B -MRPL"
+  smtp_server: "172.16.11.22"
+  email_ids: ["thilakaraj@mrpl.co.in","omsps@mrpl.co.in","omssic@mrpl.co.in","cutinho@mrpl.co.in","praveen@mrpl.co.in","rsm@mrpl.co.in"]
+
+sms:
+  message: "A Person Detected near FB7029A/B"
+  Mobile_numbers : "9448626741,9606903614,9141014628,9606906309,9606905305,9606905306,9448495917,9448495812"
