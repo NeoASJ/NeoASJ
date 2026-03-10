@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+
+# Model weights
+*.pt
+*.onnx
+
+# Data folder
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Keeping the envs
+.env
+
+# Build artifacts
+build/
+dist/
+prelim_edit/build/
+prelim_edit/dist/
+
+# Executables
+*.exe
+
+# Videos
+*.mp4
+*.avi
+
+# Logs and json outputs
+*.jsonl
+*.log
+log.txt
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.ico
