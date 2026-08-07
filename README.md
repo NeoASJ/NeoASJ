@@ -16,7 +16,7 @@
 
 ### 💻 Core Languages & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=python,C++,r,mysql,postgresql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,r,mysql,postgresql,mongodb,sqlite&theme=dark" />
 </p>
 
 ### 📊 Analytics & BI Powerhouses
